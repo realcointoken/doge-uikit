@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pastafinance.com",
+        href: "https://exchange.starswap.com",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pastafinance.com/#/pool",
+        href: "https://exchange.starswap.com/#/pool",
       },
     ],
   },
@@ -79,7 +79,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/pastafinance",
+    href: "https://twitter.com/starswap",
   },
 ];
 
